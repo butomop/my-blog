@@ -1,0 +1,9 @@
+.feedback-count {
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+}
+
+.about-cover .cover-img {
+    min-height: 300px;
+}
